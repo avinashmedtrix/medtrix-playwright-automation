@@ -1,6 +1,6 @@
 MedTrix Playwright Automation
 
 Repository Sync Check
-Version: 1.1
-Created by: Ramakanth/Avinash
+Version: 1.2
+Created by: Ramakanth Rao R
 Date: 17-Sep-2026
